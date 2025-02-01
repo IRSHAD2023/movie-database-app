@@ -1,0 +1,25 @@
+{
+  "name": "movie-database-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IRSHAD2023/movie-database-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/IRSHAD2023/movie-database-app/issues"
+  },
+  "homepage": "https://github.com/IRSHAD2023/movie-database-app#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "node-fetch": "^3.3.2"
+  }
+}
